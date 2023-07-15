@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot Solution](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
+![Screenshot Solution](https://raw.githubusercontent.com/jimmy-20/FM-NFT_Card/master/design/Solution%20NFT.png)
 
 ### Links
 
@@ -70,10 +70,9 @@ Adding the corresponding styles to each element, and using the defined variables
 ### What I learned
 The problem that stressed me the most is how to make the focus effect on the image, since when placing the "background-color" to the container it was not applied, because an image already existed, therefore, using "before" and adjusting the size to 100% I was able to achieve the effect that cost me so much,
 the same result can also be achieved using div inside the container but it would only lead to dirty code if you compare it with this solution
-
-![Screenshot Solution](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
 or for yourself when you look back on this project in the future.**
 
+![Screenshot Solution](https://raw.githubusercontent.com/jimmy-20/FM-NFT_Card/master/design/focus-image.png)
 ## Author
 
 - Frontend Mentor - [@jimmy-20](https://www.frontendmentor.io/profile/jimmy-20)
